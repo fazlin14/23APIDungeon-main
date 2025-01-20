@@ -18,4 +18,3 @@ async function getPlayerStats(playerId, res) {
     }
 
     return player
-}
